@@ -82,7 +82,9 @@ button:hover
 .main3
 	{width: 100%;
 	height: 550px;
-	background-color: white;}
+	background-color: white;
+	display: flex;
+	justify-content: center;}
 .main3_left
 	{width: 35%;
 	height: 550px;
@@ -177,7 +179,9 @@ a1 :hover
 .main4
 	{width: 100%;
 	height: 200px;
-	background-color:white;}
+	background-color:white;
+	display: flex;
+	justify-content: center;}
 .main4_left_1
 	{background-color: white;
 	width: 50%;
